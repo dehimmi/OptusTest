@@ -1,3 +1,9 @@
+#from influxdb import InfluxDBClient
+#client = InfluxDBClient(host='localhost', port='8086')
+#print(client.get_list_database())
+#client.switch_database('pythondb')
+#print(client.get_list_measurements())
+
 import pytest
 
 
